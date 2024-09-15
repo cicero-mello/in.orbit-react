@@ -19,6 +19,8 @@ Basta seguir as instruções que estão no repositório
 
 ## Inicializando localmente o Front-end
 
+- Instale o [Node.js](https://nodejs.org/pt/download/package-manager) (v20.17 ou superior)
+
 Clone o projeto:
 ```bash
   git clone https://github.com/cicero-mello/in.orbit-react.git
